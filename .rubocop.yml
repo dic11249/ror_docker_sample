@@ -1,0 +1,8 @@
+Style/Documentation:
+  Enabled: false
+
+Layout/EmptyLineAfterMagicComment:
+  Enabled: false
+  
+Style/FrozenStringLiteralComment:
+  Enabled: false
